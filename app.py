@@ -27,7 +27,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # Load environment
 load_dotenv()
-configure(api_key=os.getenv("GOOGLE_API_KEY"))
+configure(api_key=os.getenv("GOOGLE_API_KEY")or st.secrets.get("GOOGLE_API_KEY"))
 
 # LLM Wrapper
 class GeminiLLMWrapper(LLM):
