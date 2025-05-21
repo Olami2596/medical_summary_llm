@@ -90,9 +90,6 @@ This application prioritizes privacy by:
 - Not storing any uploaded documents or extracted text
 - Using secure API calls for AI functions
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Contributing
 
