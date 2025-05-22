@@ -1,6 +1,6 @@
 # 🩺 Medical Report Analyzer & Summarizer
 
-## [Try The App](https://olami2596-medical-summary-llm-app-8e7trw.streamlit.app/) 👈 Click here!
+<!-- ## [Try The App](https://olami2596-medical-summary-llm-app-8e7trw.streamlit.app/) 👈 Click here! -->
 
 A privacy-focused application that helps healthcare professionals and patients analyze, de-identify, and summarize medical reports.
 
